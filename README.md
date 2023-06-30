@@ -21,3 +21,4 @@ Track and update the total supply of nUSD based on user actions.
 9. Redeem: Specify the amount you want to redeem in the 18 decimal format. You will receive the equivalent ETH amount back into your account.
 
 ## Note**: Refer to the attached video for a better understanding.
+https://github.com/mahajanparesh/Minting-and-Burning-Tokens-Unreal-Project-/assets/86055559/e9d4b870-0bc4-4168-ad66-8e749f5a908b
